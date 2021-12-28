@@ -14,6 +14,7 @@ import java.util.function.Supplier;
 public class ChaosItems {
     public static final DeferredRegister<Item> ITEM_DEFERRED = DeferredRegister.create(Item.class, Chaos.MOD_ID);
 
+    public static final RegistryObject<Item> CHAOS_NUGGET = register(SimpleItem::new, "chaos_nugget");
     public static final RegistryObject<Item> CHAOS_INGOT = register(SimpleItem::new, "chaos_ingot");
 
     /**

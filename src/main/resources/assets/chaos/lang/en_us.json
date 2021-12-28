@@ -2,5 +2,6 @@
   "itemGroup.chaos": "Chaos",
 
   "_comment": "Chaos",
-  "item.chaos.chaos_ingot": "Chaos Ingot"
+  "item.chaos.chaos_ingot": "Chaos Ingot",
+  "item.chaos.chaos_nugget": "Chaos Nugget"
 }

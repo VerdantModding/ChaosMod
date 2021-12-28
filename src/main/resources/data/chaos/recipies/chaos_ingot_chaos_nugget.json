@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chaos_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaos:chaos_nugget"
+    }
+  },
+  "result": {
+    "item": "chaos:chaos_ingot"
+  }
+}
