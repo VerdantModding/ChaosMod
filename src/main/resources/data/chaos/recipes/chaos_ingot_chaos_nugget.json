@@ -12,6 +12,7 @@
     }
   },
   "result": {
-    "item": "chaos:chaos_ingot"
+    "item": "chaos:chaos_ingot",
+    "count": 1
   }
 }
