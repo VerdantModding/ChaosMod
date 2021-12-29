@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaos:chaos_ingot"
+    }
+  },
+  "result": {
+    "item": "chaos:chaos_block"
+  }
+}

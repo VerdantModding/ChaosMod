@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chaos:chaos_block"
+    }
+  ],
+  "result": {
+    "item": "chaos:chaos_ingot",
+    "count": 9
+  }
+}
